@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="9248f995-b062-4802-96b7-64a8c5092dbe" kpf_version="5" name="tensorflowfile.komodoproject">
+<file id="4367c5d7-0731-42df-8989-ae7e13b535b8" idref="9248f995-b062-4802-96b7-64a8c5092dbe" name="face_detect.py" url="face_detect.py">
+</file>
+<file id="b4f3d374-4ef8-45e7-8dee-7d135030ab26" idref="9248f995-b062-4802-96b7-64a8c5092dbe" name="tffile.py" url="tffile.py">
+</file>
+<preference-set idref="9248f995-b062-4802-96b7-64a8c5092dbe" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
